@@ -1,3 +1,0 @@
-C:/Users/juanm/OneDrive/Escritorio/practica/cmake-build-debug/CMakeFiles/practica.dir
-C:/Users/juanm/OneDrive/Escritorio/practica/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/juanm/OneDrive/Escritorio/practica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
