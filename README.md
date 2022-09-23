@@ -1,7 +1,6 @@
 # LP-C-L.-ENLAZADAS 
-(Un ejercicio sobre listas enlazadas utilizando un archivo de texto)
+Ejercicio sobre listas enlazadas enfocado en la utilización de un archivo de texto, del cuál, a partir de nodos que contienen la información del archivo txt, se realiza una lista linkeada.
 
-Integrantes:
-
+By:
 Juan Fernando Romero Rosero
 Verónica Zapata Vargas
